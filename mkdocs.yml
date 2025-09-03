@@ -1,0 +1,48 @@
+site_name: HPCMALL 2026
+
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+    - toc.follow
+    - toc.integrate 
+  font:
+    text: Open Sans
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+  language: en
+  palette:
+    - primary: indigo
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search:
+      enabled: false
+
+
+extra_css:
+  - stylesheets/extra.css
+
+watch:
+  - mkdocs.yml
+  - docs/
+  - overrides/
+
+hide:
+  - navigation
+
+markdown_extensions:
+  - attr_list
+  - toc:
+      permalink: true
