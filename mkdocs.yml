@@ -45,3 +45,24 @@ markdown_extensions:
   - attr_list
   - toc:
       permalink: true
+
+copyright: >
+    Copyright &copy; 2025-2026 HPCMALL –
+    <a href="#__consent">Change cookie settings</a>
+
+extra:
+  analytics:
+    provider: google
+    property: G-9P94K7ZQDF
+  consent:
+    title: Cookie consent
+    description: >-
+      To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+    actions:
+      - accept
+      - manage
+      - reject
+    cookies:
+      analytics:
+        name: Google Analytics
+        checked: true
