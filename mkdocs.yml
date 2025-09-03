@@ -30,6 +30,8 @@ plugins:
   - search:
       enabled: false
 
+nav:
+  - Home: index.md
 
 extra_css:
   - stylesheets/extra.css
@@ -38,9 +40,6 @@ watch:
   - mkdocs.yml
   - docs/
   - overrides/
-
-hide:
-  - navigation
 
 markdown_extensions:
   - attr_list
