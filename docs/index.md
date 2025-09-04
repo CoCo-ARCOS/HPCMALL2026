@@ -79,5 +79,12 @@ Please follow STEP 1 (Microsoft Word/LaTeX) at "2. The Workflow and Templates" i
 
 ## Program committee
 
-* TBD
+Carlos Jaime Barrios Hernandez. Université Grenoble Alpes, Inria. France.
+Alberto Cascajo. Universidad Carlos III de Madrid. Spain.
+Javier Fernandez-Muñoz. Universidad Carlos III de Madrid. Spain.
+Dominik Huber. Technical University of Munich. Germany.  
+Sergio Iserte. Barcelona Supercomputing Center. Spain.
+Raffaele Montella. University of Naples “Parthenope'” (UNP), Italy.
+Martin SCHREIBER. Université Grenoble Alpes, Inria. France.
+Ahmad Tarraf.  Technical University of Darmstadt. Germany.
 
