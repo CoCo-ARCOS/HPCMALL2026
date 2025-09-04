@@ -71,10 +71,10 @@ All authors should submit manuscripts for review in a single-column format. Manu
 Please follow STEP 1 (Microsoft Word/LaTeX) at "2. The Workflow and Templates" in [https://www.acm.org/publications/authors/submissions](https://www.acm.org/publications/authors/submissions). Please note that there are two different instructions for Word and LaTeX template users.
 
 ## ACM Templates
-    * Word (docx) - [download](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
-    * LaTex (zip) [download](https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip)
-        use a "manuscript" format option (Please refer to sample/sample-manuscript.tex).
-    * Overleaf use a "manuscript" format option.
+* Word (docx) - [download](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
+* LaTex (zip) [download](https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip)
+  use a "manuscript" format option (Please refer to sample/sample-manuscript.tex).
+* Overleaf use a "manuscript" format option.
 
 
 ## Program committee
