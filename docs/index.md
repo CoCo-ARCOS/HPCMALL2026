@@ -60,7 +60,7 @@ Papers will be published together with SCA/HPCAsia proceedings.
 
 ### Online Submission System
 
-Authors submitting papers for HPCMALL 2026 must do so via the [Online Submission System](https://ssl.linklings.net/conferences/HPCAsia/). Authors are invited to submit technical papers of no more than 18 pages in PDF format, including figures and references. The papers should be formatted according to the ACM Proceedings Style and submitted through the Online Submission System.
+Authors submitting papers for HPCMALL 2026 must do so via the [Online Submission System](https://ssl.linklings.net/conferences/HPCAsia/). Authors are invited to submit technical papers of no more than 12 pages in PDF format, including figures and references. The papers should be formatted according to the ACM Proceedings Style and submitted through the Online Submission System.
 
 Submitted papers must contain original work that has not appeared in and is not under consideration for another conference, journal, or workshop. The review process is double-blind. There will be no revision rebuttal process and the review will be one-pass.
 
@@ -79,12 +79,12 @@ Please follow STEP 1 (Microsoft Word/LaTeX) at "2. The Workflow and Templates" i
 
 ## Program committee
 
-Carlos Jaime Barrios Hernandez. Université Grenoble Alpes, Inria. France.
-Alberto Cascajo. Universidad Carlos III de Madrid. Spain.
-Javier Fernandez-Muñoz. Universidad Carlos III de Madrid. Spain.
-Dominik Huber. Technical University of Munich. Germany.  
-Sergio Iserte. Barcelona Supercomputing Center. Spain.
-Raffaele Montella. University of Naples “Parthenope'” (UNP), Italy.
-Martin SCHREIBER. Université Grenoble Alpes, Inria. France.
-Ahmad Tarraf.  Technical University of Darmstadt. Germany.
+* Carlos Jaime Barrios Hernandez. Université Grenoble Alpes, Inria. France.
+* Alberto Cascajo. Universidad Carlos III de Madrid. Spain.
+* Javier Fernandez-Muñoz. Universidad Carlos III de Madrid. Spain.
+* Dominik Huber. Technical University of Munich. Germany.  
+* Sergio Iserte. Barcelona Supercomputing Center. Spain.
+* Raffaele Montella. University of Naples “Parthenope'” (UNP), Italy.
+* Martin SCHREIBER. Université Grenoble Alpes, Inria. France.
+* Ahmad Tarraf.  Technical University of Darmstadt. Germany.
 
