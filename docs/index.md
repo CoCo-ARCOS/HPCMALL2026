@@ -2,7 +2,7 @@
 
 ## Submission Timeline
 
-- **Paper submission**: 15 November 2025 (AOE)
+- **Paper submission**: 8 November 2025 (AOE)
 
 - **Notification of Acceptance**: 30 November 2025
 
@@ -38,7 +38,7 @@ We are looking for original high-quality research and position papers on applica
 
 - Computing and I/O scheduling algorithms providing and/or exploiting static or dynamic malleability.
 
-- Interaction between state-of-the-art HPC systems and large-scale disaggregated resources, e.g., for AI appliances, and their dynamic usage.
+- Interaction between state-of-the-art HPC systems and large-scale disaggregated resources, e.g., for AI or Quantum appliances, and their dynamic usage.
 
 - Use of AI and ML techniques to steer malleability in systems and applications.
 
@@ -50,13 +50,7 @@ We are looking for original high-quality research and position papers on applica
 
 - Experiences and use cases applying malleability to HPC applications.
 
-## Format
 
-- **Technical paper sessions**. We will give priority to presentation of high-quality technical papers. Accepted papers will be selected after a careful review process.
-
-- **Keynote speaker**. The HPCMALL program will feature at least one invited presentation by a well-known speaker in the HPC community related to malleability in HPC systems and applications.
-
-- **Panel discussion**. To close the workshop, we will organize a panel composed from a set of experts who will debate current and future challenges in achieving malleability in HPC systems and applications.
 
 ## Publication
 
@@ -68,13 +62,15 @@ Papers will be published together with SCA/HPCAsia proceedings.
 
 Authors submitting papers for HPCMALL 2026 must do so via the [Online Submission System](https://ssl.linklings.net/conferences/HPCAsia/). Authors are invited to submit technical papers of no more than 18 pages in PDF format, including figures and references. The papers should be formatted according to the ACM Proceedings Style and submitted through the Online Submission System.
 
-Submitted papers must contain original work that has not appeared in and is not under consideration for another conference or journal. The review process is double-blind. There will be no revision rebuttal process and the review will be one-pass.
+Submitted papers must contain original work that has not appeared in and is not under consideration for another conference, journal, or workshop. The review process is double-blind. There will be no revision rebuttal process and the review will be one-pass.
 
 ### Submission Format
 
-All authors should submit manuscripts for review in a single-column format. Manuscripts must be at most 18 pages in PDF format including figures and references, formatted according to the ACM Proceedings Style. The ACM templates for Word and LaTeX are shown below. Also, ACM has partnered with Overleaf and the ACM LaTeX template on Overleaf platform is available. Please follow STEP 1 (Microsoft Word/LaTeX) at "2. The Workflow and Templates" in [https://www.acm.org/publications/authors/submissions](https://www.acm.org/publications/authors/submissions). Please note that there are two different instructions for Word and LaTeX template users.
+All authors should submit manuscripts for review in a single-column format. Manuscripts must be at most 12 pages in PDF format including figures and references, formatted according to the ACM Proceedings Style. The ACM templates for Word and LaTeX are shown below. Also, ACM has partnered with Overleaf and the ACM LaTeX template on Overleaf platform is available. 
 
-- ACM Templates
+Please follow STEP 1 (Microsoft Word/LaTeX) at "2. The Workflow and Templates" in [https://www.acm.org/publications/authors/submissions](https://www.acm.org/publications/authors/submissions). Please note that there are two different instructions for Word and LaTeX template users.
+
+## ACM Templates
     * Word (docx) - [download](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
     * LaTex (zip) [download](https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip)
         use a "manuscript" format option (Please refer to sample/sample-manuscript.tex).
