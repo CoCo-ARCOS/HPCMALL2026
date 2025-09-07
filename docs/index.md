@@ -63,7 +63,7 @@ Papers will be published together with SCA/HPCAsia proceedings.
 
 ### Online Submission System
 
-Authors submitting papers for HPCMALL 2026 must do so via the EasyChair submission web page for HPCMALL2026 (https://easychair.org/conferences?conf=hpcmall2026). Authors are invited to submit technical papers of no more than 12 pages in PDF format, including figures and references. The papers should be formatted according to the ACM Proceedings Style and submitted through the Online Submission System.
+Authors submitting papers for HPCMALL 2026 must do so via the [EasyChair submission web page for HPCMALL2026] (https://easychair.org/conferences?conf=hpcmall2026). Authors are invited to submit technical papers of no more than 12 pages in PDF format, including figures and references. The papers should be formatted according to the ACM Proceedings Style and submitted through the Online Submission System.
 
 Submitted papers must contain original work that has not appeared in and is not under consideration for another conference, journal, or workshop. The review process is double-blind. There will be no revision rebuttal process and the review will be one-pass.
 
