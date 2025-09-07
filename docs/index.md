@@ -8,7 +8,8 @@
 
 - **Camera-ready paper due**: 15 December 2025
 
-- **Submission link: [Submision page] (https://easychair.org/conferences?conf=hpcmall2026)
+* [Submission link](https://easychair.org/conferences?conf=hpcmall2026)
+
 
 ## Workshop Chairs
 
