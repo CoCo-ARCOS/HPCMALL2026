@@ -89,6 +89,7 @@ Please follow STEP 1 (Microsoft Word/LaTeX) at "2. The Workflow and Templates" i
 * Maria Fazio. Università degli Studi di Messina. Italy.
 * Balazs Gerofi, RIKEN, Japan.
 * Sonja Happ. PArTec AG. Germany.
+* Hans-Christina Hoppe. Juelich Supercomputing Centre (JSC). Germany.
 * Dominik Huber. Technical University of Munich. Germany.  
 * Sergio Iserte. Barcelona Supercomputing Center. Spain.
 * Thomas Jakobsche. University Basel. Switzerland.
