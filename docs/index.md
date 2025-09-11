@@ -93,7 +93,8 @@ Please follow STEP 1 (Microsoft Word/LaTeX) at "2. The Workflow and Templates" i
 * Dominik Huber. Technical University of Munich. Germany.  
 * Sergio Iserte. Barcelona Supercomputing Center. Spain.
 * Thomas Jakobsche. University Basel. Switzerland.
-* Raffaele Montella. University of Naples “Parthenope'” (UNP), Italy.
+* Raffaele Montella. University of Naples “Parthenope (UNP), Italy.
+* Antonio Peña. Barcelona Supercomputing Center. Spain.
 * Krzysztof Rojeck. Częstochowa University of Technology (PCZ), Poland.
 * Martin SCHREIBER. Université Grenoble Alpes, Inria. France.
 * David E. Singh, Universidad Carlos III de Madrid. Spain.
