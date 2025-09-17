@@ -84,6 +84,7 @@ Please follow STEP 1 (Microsoft Word/LaTeX) at "2. The Workflow and Templates" i
 
 * Marco Aldinucci, University of Torino, Italy.
 * Carlos Jaime Barrios Hernandez. Université Grenoble Alpes, Inria. France.
+* Rajat	Bhattarai. Tennessee Tech University. USA.
 * Alberto Cascajo. Universidad Carlos III de Madrid. Spain.
 * Javier Fernandez-Muñoz. Universidad Carlos III de Madrid. Spain.
 * Maria Fazio. Università degli Studi di Messina. Italy.
@@ -93,8 +94,10 @@ Please follow STEP 1 (Microsoft Word/LaTeX) at "2. The Workflow and Templates" i
 * Dominik Huber. Technical University of Munich. Germany.  
 * Sergio Iserte. Barcelona Supercomputing Center. Spain.
 * Thomas Jakobsche. University Basel. Switzerland.
+* Iker Martin. Universitt Jaume I. Spain
 * Raffaele Montella. University of Naples “Parthenope (UNP), Italy.
 * Antonio Peña. Barcelona Supercomputing Center. Spain.
+* Tapasya Patki. Lawrence Livermore National Laboratory. USA.
 * Krzysztof Rojeck. Częstochowa University of Technology (PCZ), Poland.
 * Martin SCHREIBER. Université Grenoble Alpes, Inria. France.
 * David E. Singh, Universidad Carlos III de Madrid. Spain.
