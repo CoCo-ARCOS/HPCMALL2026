@@ -2,7 +2,7 @@
 
 ## Submission Timeline
 
-- **Paper submission**: 8 November 2025 (AOE)
+- **Paper submission**: ~~8 November 2025 (AOE)~~ 15 November 2025 (AOE)  
 
 - **Notification of Acceptance**: 30 November 2025
 
