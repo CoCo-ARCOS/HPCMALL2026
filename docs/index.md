@@ -2,7 +2,7 @@
 
 ## Workshop Program 
 
-### Half Day (morning): Mon, Jan 26, 9am to 5:30pm
+**Half Day (morning): Mon, Jan 26, 9am to 5:30pm**
 
 **Session Duration: 09:30 - 12:30**
 
