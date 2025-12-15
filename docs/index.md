@@ -4,8 +4,9 @@
 
 ### Half Day (morning): Mon, Jan 26, 9am to 5:30pm
 
-** Session Duration: 09:30 - 12:30 **
-** Morning Break: 10:45 – 11:15 **
+**Session Duration: 09:30 - 12:30**
+
+**Morning Break: 10:45 – 11:15**
 
 | Time | Program | Presenter(s) | Affiliation |
 | :--- | :--- | :--- | :--- |
