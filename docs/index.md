@@ -1,6 +1,6 @@
 # Workshop details
 
-## Workshop Program 
+## Workshop Program (tentative)
 
 **Half Day (morning): Mon, Jan 26, 9am to 5:30pm**
 
