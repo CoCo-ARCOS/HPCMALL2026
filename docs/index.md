@@ -11,13 +11,13 @@
 | Time | Program | Presenter(s) | Affiliation |
 | :--- | :--- | :--- | :--- |
 | 09:30 – 09:40 | Workshop Opening | Martin Schultz | Technical University of Munich |
-| 09:40 – 10:20 | Invited Keynote: "Invited Keynote: "Malleable Architecture Design for the Computing Continuum: Addressing Energy, Workload, and Scale Diversity" | Carlos J. Barrios | INSA-CITI Laboratory Lyon |
-| 10:20 – 10:45 | On modeling knowledge graphs for representing and explaining wide-area distributed storage system | Dante D. Sánchez-Gallegos | University Carlos III of Madrid |
+| 09:40 – 10:15 | Keynote: "On the need for Malleability & Path Forward in MPI" | Martin Schultz | Technical University of Munich |
+| 10:15 – 10:45 | On modeling knowledge graphs for representing and explaining wide-area distributed storage system | Dante D. Sánchez-Gallegos | University Carlos III of Madrid |
 | 10:45 – 11:15 | **Break** | — | — |
-| 11:15 – 11:40 | Improving HPC Efficiency by Implementing Malleability Customisable Techniques in Radiation Transport Simulations | Rafael Mayo-Garcia | CIEMAT |
-| 11:40 – 12:05 | Toward HPC Spot Jobs: On the Feasibility of Malleable Jobs on Idle Resources | Hervé Yviquel | Universidade Estadual de Campinas |
-| 12:05 – 12:30 | Efficient Data Elasticity for HPC: A Malleable Ad-hoc In-memory File System for Ephemeral Data | Javier García-Blas | University Carlos III of Madrid |
-| 12:30 | Workshop Closing | Martin Schultz | Technical University of Munich |
+| 11:15 – 11:45 | Efficient Data Elasticity for HPC: A Malleable Ad-hoc In-memory File System for Ephemeral Data | Javier García-Blas | University Carlos III of Madrid |
+| 11:45 – 12:00 | Hercules Demo | Javier García-Blas | University Carlos III of Madrid |
+| 12:00 - 12:30 | Open Discussion | |  |
+| 12:00 - 12:00 | Workshop Closing | Martin Schultz | Technical University of Munich |
 
 
 
