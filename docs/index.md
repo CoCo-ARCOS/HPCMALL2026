@@ -12,12 +12,12 @@
 | :--- | :--- | :--- | :--- |
 | 09:30 – 09:40 | Workshop Opening | Martin Schultz | Technical University of Munich |
 | 09:40 – 10:15 | Keynote: "On the need for Malleability & Path Forward in MPI" | Martin Schultz | Technical University of Munich |
-| 10:15 – 10:45 | On modeling knowledge graphs for representing and explaining wide-area distributed storage system | Dante D. Sánchez-Gallegos | University Carlos III of Madrid |
+| 10:15 – 10:45 | On modeling knowledge graphs for representing and explaining wide-area distributed storage systems | Dante D. Sánchez-Gallegos | University Carlos III of Madrid |
 | 10:45 – 11:15 | **Break** | — | — |
-| 11:15 – 11:45 | Efficient Data Elasticity for HPC: A Malleable Ad-hoc In-memory File System for Ephemeral Data | Javier García-Blas | University Carlos III of Madrid |
-| 11:45 – 12:00 | Hercules Demo | Javier García-Blas | University Carlos III of Madrid |
-| 12:00 - 12:30 | Open Discussion | |  |
-| 12:00 - 12:00 | Workshop Closing | Martin Schultz | Technical University of Munich |
+| 11:15 – 11:45 | Improving HPC Efficiency by Implementing Malleability Customisable Techniques in Radiation Transport Simulations | Rafael Mayo-Garcia | CIEMAT
+| 11:45 – 12:15 | Efficient Data Elasticity for HPC: A Malleable Ad-hoc In-memory File System for Ephemeral Data | Javier García-Blas | University Carlos III of Madrid |
+| 12:15 – 12:30 | Hercules Demo | Javier García-Blas | University Carlos III of Madrid |
+| 12:30 | Workshop Closing | Martin Schultz | Technical University of Munich |
 
 
 
